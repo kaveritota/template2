@@ -1,0 +1,48 @@
+
+* {
+    font-family: "Karma", serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  .container{
+    font-size:30px ;
+    margin-top:80px;
+    margin-bottom:30px ;
+    
+}
+.icon{
+    margin-left:150px;
+}
+.food,.mail{
+    margin-left:500px ;
+}
+section{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 5px;
+}
+img{
+    width:100%;
+}
+main {
+    margin: 0px 125px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 8px 0px;
+    text-align-last: center;
+    text-align: justify;
+}
+
+p {
+    font-size: 18px;
+    text-align: justify;
+    text-align-last: center;
+}
+
+div {
+    padding: 10px;
+}
